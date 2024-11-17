@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asmi-saxena
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Dev
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Developement and AI
+- 🌱 I’m currently learning Full Stack Dev and AI
+- 📫 How to reach me saxenaasmi2004@gmail.com
 - 😄 Pronouns: she/her
 
 
