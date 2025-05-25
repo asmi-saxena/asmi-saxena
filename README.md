@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmi-saxena
-- 👀 I’m interested in Full Stack Developement and AI
-- 🌱 I’m currently learning Full Stack Dev and AI
+- 👀 I’m interested in Full Stack Development and AI
+- 🌱 I’m currently learning Generative AI
 - 📫 How to reach me saxenaasmi2004@gmail.com
 - 😄 Pronouns: she/her
 
